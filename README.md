@@ -1,2 +1,3 @@
 # hello-world
-Birthday Card assignment
+
+Hello Everyone! My name is Sophia 
